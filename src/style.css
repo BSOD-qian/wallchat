@@ -1,0 +1,17 @@
+.bg{
+    background: rgba( 255, 255, 255, 0.25 );
+box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+backdrop-filter: blur( 4px );
+-webkit-backdrop-filter: blur( 4px );
+border-radius: 10px;
+}
+footer {
+    text-align: center;
+    background-color: #4f4f4f;
+    color: #dfdfdf;
+    font-family: "santi";
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-top: 50px;
+    line-height: 25px;
+}
